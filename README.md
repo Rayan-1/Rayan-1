@@ -20,10 +20,6 @@
   <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="E-mail"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/Rayan-1">
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
-</a>&nbsp;&nbsp;
-
 <a href="https://wa.me/5588998007210">
   <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/>
 </a>
@@ -148,10 +144,6 @@
 
 <a href="mailto:rayanvictor088@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="E-mail"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/Rayan-1">
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://wa.me/5588998007210">
