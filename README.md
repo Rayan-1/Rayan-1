@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=230&section=header&text=RAYAN%20VICTOR&fontSize=44&fontColor=F0883E&fontAlignY=34&desc=Deploy%20sem%20medo.%20Monitoramento%20sem%20ru%C3%ADdo.%20Infra%20sem%20drama.&descAlignY=52&descAlign=50&descColor=58A6FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=230&section=header&text=RAYAN%20VICTOR&fontSize=56&fontColor=F0883E&fontAlignY=34&desc=Deploy%20sem%20medo.%20Monitoramento%20sem%20ru%C3%ADdo.%20Infra%20sem%20drama.&descSize=26&descAlignY=56&descAlign=50&descColor=58A6FF&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Rayan-1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=%24+whoami;DevOps+Engineer+%40+Remote;Cloud+%7C+DevOps+%7C+SRE;Formado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Se+quebrou+em+produ%C3%A7%C3%A3o%2C+eu+j%C3%A1+vi+pior+%E2%9A%A1%EF%B8%8F" alt="Efeito de digitação"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=500&lines=%24+whoami;DevOps+Engineer+%40+Remote;Cloud+%7C+DevOps+%7C+SRE;Formado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Se+quebrou+em+produ%C3%A7%C3%A3o%2C+eu+j%C3%A1+vi+pior+%E2%9A%A1%EF%B8%8F" alt="Efeito de digitação"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=1200&color=F0883E&center=true&vCenter=true&width=480&lines=%E2%97%8F+DISPON%C3%8DVEL+PARA+NOVAS+OPORTUNIDADES" alt="Status"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=1200&color=F0883E&center=true&vCenter=true&width=400&lines=%E2%97%8F+DISPON%C3%8DVEL+PARA+NOVAS+OPORTUNIDADES" alt="Status"/>
 
 <br/><br/>
 
@@ -40,24 +40,13 @@
 
 ## 👤 Sobre mim
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-```yaml
-nome:            Rayan Victor
-idade:           25 anos
-localização:     Russas, Ceará — Brasil 🇧🇷
-formação:        Ciência da Computação
-cargo_atual:     DevOps Engineer
-área_de_foco:    Cloud · DevOps · SRE · Infraestrutura
-disponibilidade: Remoto 🌎
-```
-
-</td>
-
-<td width="50%" valign="top">
+* **Nome:** Rayan Victor
+* **Idade:** 25 anos
+* **Localização:** Russas, Ceará — Brasil 🇧🇷
+* **Formação:** Ciência da Computação
+* **Cargo atual:** DevOps Engineer
+* **Área de foco:** Cloud · DevOps · SRE · Infraestrutura
+* **Disponibilidade:** Remoto 🌎
 
 **Como eu trabalho:**
 
@@ -67,26 +56,17 @@ disponibilidade: Remoto 🌎
 * Pipeline verde não é sorte, é design
 * Infraestrutura deve ser versionada e reproduzível
 
-</td>
-
-</tr>
-</table>
-
 > *"Boa infraestrutura não aparece nas manchetes. Aparece na ausência delas."*
 
 <br/>
 
 ## 🎯 Foco do momento
 
-```bash
-$ cat foco_atual.txt
-
-[✔] Kubernetes e infraestrutura como código
-[✔] Automação de CI/CD e GitOps
-[✔] Observabilidade e troubleshooting
-[✔] Cloud e ambientes híbridos
-[ ] Certificação avançada em nuvem  ← em andamento
-```
+- [x] Kubernetes e infraestrutura como código
+- [x] Automação de CI/CD e GitOps
+- [x] Observabilidade e troubleshooting
+- [x] Cloud e ambientes híbridos
+- [ ] Certificação avançada em nuvem — *em andamento*
 
 <br/>
 
@@ -96,15 +76,7 @@ $ cat foco_atual.txt
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,githubactions,gitlab,jenkins&theme=dark&perline=10" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,python,bash,go,git,linux,windows&theme=dark&perline=9" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nginx,redis,rabbitmq,postgres,mysql,cpp,cs,java,cloudflare&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,githubactions,gitlab,jenkins,prometheus,grafana,elasticsearch,python,bash,go,git,linux,windows,nginx,redis,rabbitmq,postgres,mysql,cpp,cs,java,cloudflare&theme=dark&perline=7" />
 
 </div>
 
